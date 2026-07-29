@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "brand": "MARCOS MERINO SÁNCHEZ",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "downloadCv": "DESCARGAR CV"
+  },
+  "home": {
+    "title": "Inicio"
+  },
+  "hero-section": {
+    "description": "Hola, soy Marcos Merino Sánchez, un apasionado de la tecnología y la innovación."
+  }
+}
