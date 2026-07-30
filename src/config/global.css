@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+}
+
+body {
+  max-width: 1280px;
+  transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1), filter 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Efecto suave de transición global al cambiar de idioma */
+body.lang-changing {
+  opacity: 0.15;
+  filter: blur(3px);
+}
+
+button {
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  padding: 1rem;
+}
