@@ -1,38 +1,86 @@
-# marcos-merino-portfolio
+# Marcos Merino Sánchez — Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Portafolio personal desarrollado con **Vue 3** y **Vite**, diseñado para mostrar mis proyectos, experiencia y habilidades de desarrollo web.
 
-## Recommended IDE Setup
+ **Demo en vivo:** [marcos.merinosanchez.com](marcos.merinosanchez.com)
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Recommended Browser Setup
+##  Tecnologías Utilizadas
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Framework:** [Vue 3](https://vuejs.org/) (Composition API)
+- **Tooling & Build:** [Vite](https://vite.dev/)
+- **Gestión de Estado:** [Pinia](https://pinia.vuejs.org/)
+- **Enrutamiento:** [Vue Router](https://router.vuejs.org/)
+- **Internacionalización:** [Vue i18n](https://vue-i18n.intlify.dev/)
+- **Estilos:** CSS Vanilla / Modular
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+##  Características
 
-## Project Setup
+-  **Soporte Multilingüe:** Cambio dinámico de idioma.
+-  **Diseño Responsive:** Adaptado a dispositivos móviles, tablets y escritorio.
+-  **Alto Rendimiento:** Carga ultra rápida gracias a Vite.
+-  **Interfaz Moderna:** Componentes modulares y limpios.
 
-```sh
-npm install
+---
+
+## Estructura del Proyecto
+
+```text
+marcos-merino-sanchez-portfolio/
+├── public/              # Archivos estáticos
+├── src/
+│   ├── config/          # Configuraciones generales
+│   ├── i18n/            # Traducciones (i18n)
+│   ├── router/          # Rutas de Vue Router
+│   ├── sections/        # Componentes por sección (header, hero, etc.)
+│   ├── stores/          # Stores de Pinia
+│   ├── views/           # Vistas principales
+│   ├── App.vue          # Componente raíz
+│   └── main.js          # Punto de entrada
+├── package.json
+└── vite.config.js
 ```
 
-### Compile and Hot-Reload for Development
+## Instalación y Uso Local
 
-```sh
+Requisitos previos: Node.js (>=22.18.0).
+
+```bash
+# Clonar el repositorio
+git clone <URL_DEL_REPOSITORIO>
+
+# Navegar al directorio
+cd marcos-merino-sanchez-portfolio
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
+```bash
+# Construir para producción
 npm run build
+
+# Previsualizar la build localmente
+npm run preview
 ```
+
+
+
+---
+
+## Autor
+
+**Marcos Merino Sánchez** — [Marcos-Merino](https://github.com/Marcos-Merino)
+
+**Proyecto GitHub** — [Proyecto GitHub](https://github.com/users/Marcos-Merino/projects/1)
+
+**Email** — marcosmerinosanchez@gmail.com
+
+---
+
