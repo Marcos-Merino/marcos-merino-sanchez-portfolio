@@ -1,10 +1,5 @@
 {
   "nav": {
-    "brand": "MARCOS MERINO",
-    "home": "Home",
-    "about": "About Me",
-    "projects": "Projects",
-    "contact": "Contact",
     "downloadCv": "Download CV"
   },
   "home": {

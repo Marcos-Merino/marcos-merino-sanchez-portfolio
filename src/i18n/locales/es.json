@@ -1,10 +1,5 @@
 {
   "nav": {
-    "brand": "MARCOS MERINO SÁNCHEZ",
-    "home": "Inicio",
-    "about": "Sobre mí",
-    "projects": "Proyectos",
-    "contact": "Contacto",
     "downloadCv": "DESCARGAR CV"
   },
   "home": {

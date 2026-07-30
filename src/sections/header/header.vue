@@ -1,15 +1,11 @@
 <template>
     <header class="container">
         <div class="header-container">
-            <div class="logo">{{ $t('nav.brand') }}</div>
+            <div class="logo">Marcos Merino Sánchez</div>
 
             <div class="menu-content" :class="{ 'is-active': isMobileMenuOpen }">
                 <nav>
                     <ul>
-                        <li><a href="#home" @click="closeMobileMenu">{{ $t('nav.home') }}</a></li>
-                        <li><a href="#about" @click="closeMobileMenu">{{ $t('nav.about') }}</a></li>
-                        <li><a href="#projects" @click="closeMobileMenu">{{ $t('nav.projects') }}</a></li>
-                        <li><a href="#contact" @click="closeMobileMenu">{{ $t('nav.contact') }}</a></li>
                     </ul>
                 </nav>
 
