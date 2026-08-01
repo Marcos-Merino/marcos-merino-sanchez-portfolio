@@ -1,7 +1,8 @@
 {
   "nav": {
     "downloadCv": "DESCARGAR CV",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "skills": "Habilidades"
   },
   "home": {
     "title": "Inicio"
@@ -15,5 +16,77 @@
     "phone": "Teléfono",
     "github": "GitHub",
     "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "categories": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "name": "Vue.js",
+            "description": "Vue 3, con múltiples librerias como vuetify, pinia, vue router, etc. Para crear webs con componentes reutilizables, de buen rendimiento y escalabilidad."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Lenguaje fundamental para el desarrollo web interactivo y moderno."
+          },
+          {
+            "name": "HTML / CSS",
+            "description": "Estándares web para estructuración semántica y diseño visual responsivo."
+          },
+          {
+            "name": "SEO",
+            "description": "Optimización de motores de búsqueda para mejorar la visibilidad y posicionamiento de webs en buscadores."
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "name": "Java",
+            "description": "Versiones 8 y 12, MVC, utilizado para crear aplicaciones de escritorio usando Hibernate para la conectividad con la BBDD."
+          },
+          {
+            "name": "C#",
+            "description": "Versión 8, usando MVC, MVVM, WinForms y WPF."
+          },
+          {
+            "name": "Node.js",
+            "description": "Versiones 20 y 22, creación de APIs REST con conectividad a MySQL."
+          }
+        ]
+      },
+      {
+        "title": "Data",
+        "items": [
+          {
+            "name": "MongoDB",
+            "description": "Base de datos NoSQL basada en documentos para almacenamiento flexible y escalable."
+          },
+          {
+            "name": "MySQL",
+            "description": "Sistema de gestión de bases de datos relacionales SQL."
+          },
+          {
+            "name": "ETL",
+            "description": "Procesos de extracción, transformación y carga de datos para análisis y migraciones."
+          },
+          {
+            "name": "Qlik Sense",
+            "description": "Herramienta de análisis interactivo y visualización de datos de negocio."
+          },
+          {
+            "name": "Power BI",
+            "description": "Plataforma de Business Intelligence para la creación de cuadros de mando e informes."
+          },
+          {
+            "name": "Tableau",
+            "description": "Plataforma de inteligencia de negocios para análisis visual avanzado de datos."
+          }
+        ]
+      }
+    ]
   }
 }

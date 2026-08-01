@@ -1,7 +1,8 @@
 {
   "nav": {
-    "downloadCv": "Download CV",
-    "contact": "Contact"
+    "downloadCv": "DOWNLOAD CV",
+    "contact": "Contact",
+    "skills": "Skills"
   },
   "home": {
     "title": "Home"
@@ -15,5 +16,77 @@
     "phone": "Phone",
     "github": "GitHub",
     "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "name": "Vue.js",
+            "description": "Vue 3 with multiple libraries such as Vuetify, Pinia, Vue Router, etc. For building web applications with reusable components, high performance, and scalability."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Core programming language for modern interactive web development."
+          },
+          {
+            "name": "HTML / CSS",
+            "description": "Web standards for semantic structure and responsive visual design."
+          },
+          {
+            "name": "SEO",
+            "description": "Search engine optimization to improve website visibility and ranking in search engines."
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "name": "Java",
+            "description": "Versions 8 and 12, MVC, used for creating desktop applications using Hibernate for database connectivity."
+          },
+          {
+            "name": "C#",
+            "description": "Version 8, using MVC, MVVM, WinForms, and WPF."
+          },
+          {
+            "name": "Node.js",
+            "description": "Versions 20 and 22, creation of REST APIs with MySQL connectivity."
+          }
+        ]
+      },
+      {
+        "title": "Data",
+        "items": [
+          {
+            "name": "MongoDB",
+            "description": "Document-based NoSQL database for flexible and scalable storage."
+          },
+          {
+            "name": "MySQL",
+            "description": "Relational SQL database management system."
+          },
+          {
+            "name": "ETL",
+            "description": "Data extraction, transformation, and loading processes for analytics and migrations."
+          },
+          {
+            "name": "Qlik Sense",
+            "description": "Interactive business analytics and data visualization tool."
+          },
+          {
+            "name": "Power BI",
+            "description": "Business Intelligence platform for creating dashboards and reports."
+          },
+          {
+            "name": "Tableau",
+            "description": "Business intelligence platform for advanced visual data analytics."
+          }
+        ]
+      }
+    ]
   }
 }

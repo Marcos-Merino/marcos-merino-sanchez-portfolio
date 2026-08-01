@@ -3,6 +3,7 @@
     <HeaderSection />
     <main class="main-content">
       <hero-section></hero-section>
+      <SkillsSection />
     </main>
     <footer>
       <ContactSection />
@@ -14,6 +15,7 @@
 import HeaderSection from '@/sections/header/header.vue';
 import HeroSection from '@/sections/hero-section/hero-section.vue';
 import ContactSection from '@/sections/contact/contact.vue';
+import SkillsSection from '@/sections/skills-section/skills.vue';
 </script>
 
 <style scoped>
