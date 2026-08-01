@@ -1,11 +1,19 @@
 {
   "nav": {
-    "downloadCv": "Download CV"
+    "downloadCv": "Download CV",
+    "contact": "Contact"
   },
   "home": {
     "title": "Home"
   },
   "hero-section": {
     "description": "Hello, I'm Marcos Merino Sánchez, a technology and innovation enthusiast."
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
   }
 }

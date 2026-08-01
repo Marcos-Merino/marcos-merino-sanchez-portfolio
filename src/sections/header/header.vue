@@ -6,6 +6,7 @@
             <div class="menu-content" :class="{ 'is-active': isMobileMenuOpen }">
                 <nav>
                     <ul>
+                        <li><a href="#contact-section">{{ $t('nav.contact') }}</a></li>
                     </ul>
                 </nav>
 

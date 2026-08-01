@@ -1,11 +1,19 @@
 {
   "nav": {
-    "downloadCv": "DESCARGAR CV"
+    "downloadCv": "DESCARGAR CV",
+    "contact": "Contacto"
   },
   "home": {
     "title": "Inicio"
   },
   "hero-section": {
     "description": "Hola, soy Marcos Merino Sánchez, un apasionado de la tecnología y la innovación."
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
   }
 }
