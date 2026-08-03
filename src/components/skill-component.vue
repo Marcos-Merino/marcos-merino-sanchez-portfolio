@@ -143,6 +143,7 @@ const togglePin = () => {
     line-height: 1.4;
     margin: 0;
     font-weight: 400;
+    white-space: pre-line;
 }
 
 @media (max-width: 640px) {

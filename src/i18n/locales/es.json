@@ -2,13 +2,15 @@
   "nav": {
     "downloadCv": "DESCARGAR CV",
     "contact": "Contacto",
-    "skills": "Habilidades"
+    "skills": "Habilidades",
+    "about-me": "Sobre mi"
   },
   "home": {
     "title": "Inicio"
   },
-  "hero-section": {
-    "description": "Hola, soy Marcos Merino Sánchez, un apasionado de la tecnología y la innovación."
+  "about-me-section": {
+    "title": "Sobre mí",
+    "description": "Desarrollador de Software orientado al Back-End y la gestión de datos.\n\nMe apasiona comprender cómo fluyen los datos dentro de los sistemas y transformarlos en soluciones eficientes y seguras.\n\nExperiencia en entornos con MySQL, Java, C#, Qlik Sense, etc. Participando en procesos de migración, integración y análisis de datos.\n\nDestaco por mi capacidad de aprendizaje rápido y por mantener la calma en entornos exigentes. Busco seguir creciendo en proyectos donde los datos y el backend sean el núcleo de la innovación."
   },
   "contact": {
     "title": "Contacto",

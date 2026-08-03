@@ -2,13 +2,15 @@
   "nav": {
     "downloadCv": "DOWNLOAD CV",
     "contact": "Contact",
-    "skills": "Skills"
+    "skills": "Skills",
+    "about-me": "About Me"
   },
   "home": {
     "title": "Home"
   },
-  "hero-section": {
-    "description": "Hello, I'm Marcos Merino Sánchez, a technology and innovation enthusiast."
+  "about-me-section": {
+    "title": "About Me",
+    "description": "Software Developer focused on Back-End and data management.\n\nI am passionate about understanding how data flows within systems and transforming it into efficient and secure solutions.\n\nExperience in environments with MySQL, Java, C#, Qlik Sense, etc., participating in data migration, integration, and analysis processes.\n\nI stand out for my fast learning ability and for keeping calm in demanding environments. I am looking to keep growing in projects where data and the backend are the core of innovation."
   },
   "contact": {
     "title": "Contact",
