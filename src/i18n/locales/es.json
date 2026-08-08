@@ -3,7 +3,8 @@
     "downloadCv": "DESCARGAR CV",
     "contact": "Contacto",
     "skills": "Habilidades",
-    "about-me": "Sobre mi"
+    "timeline": "Trayectoria",
+    "about-me": "Sobre mí"
   },
   "home": {
     "title": "Inicio"
@@ -88,6 +89,66 @@
             "description": "Plataforma de inteligencia de negocios para análisis visual avanzado de datos."
           }
         ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Trayectoria & Formación",
+    "subtitle": "Línea temporal interactiva de experiencia laboral y formación académica",
+    "filterAll": "Todos",
+    "filterExp": "Experiencia",
+    "filterEdu": "Formación",
+    "present": "Presente",
+    "clickToExpand": "Haz clic para ver más detalles",
+    "noDescription": "Sin detalles adicionales",
+    "close": "Cerrar",
+    "items": [
+      {
+        "id": "edu-1",
+        "tipo": "formacion",
+        "titulo": "FP en Desarrollo de Aplicaciones Multiplataforma (DAM)",
+        "lugar": "CPF. JUAN XXIII",
+        "mesInicio": 9,
+        "anioInicio": 2022,
+        "mesFin": 6,
+        "anioFin": 2024,
+        "color": "#10B981"
+      },
+      {
+        "id": "exp-1",
+        "tipo": "experiencia",
+        "titulo": "Desarollador Full-Stack",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 4,
+        "anioInicio": 2024,
+        "mesFin": null,
+        "anioFin": null,
+        "color": "#8B5CF6",
+        "descripcion": "**Desarrollo de Producto (Web y Móvil):**\n- Participé en el desarrollo de una aplicación web para el departamento de Recursos Humanos enfocada en la gestión y tratamiento de currículums.\n- Desarrollo de aplicación móvil y sitios web corporativos utilizando **Vue.js 3** como tecnología principal.\n\n**Arquitectura Backend y Base de Datos:**\n- Diseñé y administré bases de datos **MySQL** desde cero.\n- Implementé **Strapi** como CMS Headless, incluyendo el desarrollo de un provider personalizado.\n\n**DevOps y Despliegues (CI/CD):**\n- Gestioné el ciclo de vida de las aplicaciones mediante el mantenimiento de pipelines en **GitHub**, orquestando los pases a producción y despliegues de infraestructura."
+      },
+      {
+        "id": "exp-2",
+        "tipo": "experiencia",
+        "titulo": "ETL DATA ANALYST",
+        "lugar": "Ayvens (External)",
+        "mesInicio": 10,
+        "anioInicio": 2024,
+        "mesFin": 11,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "**Diseño e Implementación de ETL**:\n - Desarrollé procesos complejos de extracción, transformación y  carga (ETL) para consolidar e integrar bases de datos críticas de flotas, contratos, clientes y facturación.\n **Gestión de Entornos de Datos Multiplataforma**:\n - Aseguré la interoperabilidad y migración de datos estructurados operando con motores Microsoft SQL Server y DB2.\n **Automatización de los procesos**: \n- Diseñé e implementé una automatización de procesos mediante scripts Batch, optimizando el flujo de trabajo al gestionar el movimiento, compresión y transferencia segura de archivos vía FTP."
+      },
+      {
+        "id": "exp-3",
+        "tipo": "experiencia",
+        "titulo": "Auxiliar Auditoria",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 6,
+        "anioInicio": 2025,
+        "mesFin": 7,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "Realizar una auditoría sobre el rendimiento de los servicios y arquitectura del sistema del Cliente sobre QLik. Investigar sobre el rendimiento de la arquitectura y servicios del Cliente, comprobación de servidores, flujo de los procesos, conflictos, mejoras, etc."
       }
     ]
   }

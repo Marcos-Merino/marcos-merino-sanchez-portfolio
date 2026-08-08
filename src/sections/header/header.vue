@@ -8,6 +8,7 @@
                     <ul>
                         <li><a href="#about-me-section" @click="closeMobileMenu">{{ $t('nav.about-me') }}</a></li>
                         <li><a href="#skills-section" @click="closeMobileMenu">{{ $t('nav.skills') }}</a></li>
+                        <li><a href="#timeline-section" @click="closeMobileMenu">{{ $t('nav.timeline') }}</a></li>
                         <li><a href="#contact-section" @click="closeMobileMenu">{{ $t('nav.contact') }}</a></li>
                     </ul>
                 </nav>

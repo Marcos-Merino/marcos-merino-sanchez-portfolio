@@ -4,6 +4,7 @@
     <main class="main-content">
       <AboutMeSection />
       <SkillsSection />
+      <TimelineSection />
     </main>
     <footer>
       <ContactSection />
@@ -14,6 +15,7 @@
 <script setup>
 import HeaderSection from '@/sections/header/header.vue';
 import AboutMeSection from '@/sections/about-me-section/about-me-section.vue';
+import TimelineSection from '@/sections/timeline-section/timeline.vue';
 import ContactSection from '@/sections/contact/contact.vue';
 import SkillsSection from '@/sections/skills-section/skills.vue';
 </script>

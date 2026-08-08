@@ -3,6 +3,7 @@
     "downloadCv": "DOWNLOAD CV",
     "contact": "Contact",
     "skills": "Skills",
+    "timeline": "Timeline",
     "about-me": "About Me"
   },
   "home": {
@@ -88,6 +89,66 @@
             "description": "Business intelligence platform for advanced visual data analytics."
           }
         ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & Education",
+    "subtitle": "Interactive timeline of work experience and academic education",
+    "filterAll": "All",
+    "filterExp": "Experience",
+    "filterEdu": "Education",
+    "present": "Present",
+    "clickToExpand": "Click to view more details",
+    "noDescription": "No additional details",
+    "close": "Close",
+    "items": [
+      {
+        "id": "edu-1",
+        "tipo": "formacion",
+        "titulo": "Higher VET in Multiplatform Application Development (DAM)",
+        "lugar": "CPF. JUAN XXIII",
+        "mesInicio": 9,
+        "anioInicio": 2022,
+        "mesFin": 6,
+        "anioFin": 2024,
+        "color": "#10B981"
+      },
+      {
+        "id": "exp-1",
+        "tipo": "experiencia",
+        "titulo": "Full-Stack Developer",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 4,
+        "anioInicio": 2024,
+        "mesFin": null,
+        "anioFin": null,
+        "color": "#8B5CF6",
+        "descripcion": "**Product Development (Web & Mobile):**\n- Participated in the development of a web application for the HR department focused on resume management and processing.\n- Mobile application and corporate website development using **Vue.js 3** as main technology.\n\n**Backend Architecture & Database:**\n- Designed and managed **MySQL** databases from scratch.\n- Implemented **Strapi** as Headless CMS, including custom provider development.\n\n**DevOps & Deployments (CI/CD):**\n- Managed application lifecycles maintaining **GitHub** pipelines, orchestrating production releases and infrastructure deployments."
+      },
+      {
+        "id": "exp-2",
+        "tipo": "experiencia",
+        "titulo": "ETL DATA ANALYST",
+        "lugar": "Ayvens (External)",
+        "mesInicio": 10,
+        "anioInicio": 2024,
+        "mesFin": 11,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "**ETL Design & Implementation**:\n - Developed complex extraction, transformation, and loading (ETL) processes to consolidate and integrate critical fleet, contract, customer, and billing databases.\n **Multiplatform Data Environment Management**:\n - Ensured interoperability and migration of structured data operating with Microsoft SQL Server and DB2 engines.\n **Process Automation**: \n- Designed and implemented process automation using Batch scripts, optimizing workflow by managing secure file movement, compression, and transfer via FTP."
+      },
+      {
+        "id": "exp-3",
+        "tipo": "experiencia",
+        "titulo": "Audit Assistant",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 6,
+        "anioInicio": 2025,
+        "mesFin": 7,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "Performed an audit on service performance and system architecture for the client on Qlik. Researched client architecture and service performance, server verification, process flows, conflicts, improvements, etc."
       }
     ]
   }
