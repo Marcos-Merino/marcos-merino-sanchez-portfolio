@@ -1,0 +1,50 @@
+# Marcos Merino Sánchez - Portfolio & Professional Summary
+
+> Software Developer specializing in Full-Stack development, Back-End architecture, and Data Analytics.
+
+## About Marcos
+Marcos Merino Sánchez is a Software Developer experienced in web and mobile applications, RESTful APIs, relational database architecture (MySQL, Microsoft SQL Server, DB2), ETL data integration pipelines, and Business Intelligence dashboards (Qlik Sense, Power BI).
+
+## Technical Skills
+
+### Frontend & Mobile
+- Vue.js 3 (Options & Composition API, Pinia, Vue Router, Vue i18n)
+- JavaScript (ES6+)
+- HTML5 & CSS3 (Responsive Design)
+
+### Backend & Databases
+- Node.js & REST APIs
+- C# & Java
+- MySQL, MongoDB, MS SQL Server, DB2
+- Strapi (Headless CMS & Custom Providers)
+- Hibernate & Entity Framework
+
+### Data Engineering & Analytics
+- ETL Pipeline Design & Execution
+- Process Automation (Batch Scripting, FTP)
+- Business Intelligence: Qlik Sense, Power BI, Tableau
+
+### DevOps & Tools
+- Git & GitHub Actions (CI/CD Pipelines)
+- Docker
+
+## Work Experience
+- **Full-Stack Developer** at CON&SEL 15 (Apr 2024 - Present)
+  - Developed HR web application for resume processing using Vue.js 3.
+  - Designed and administered MySQL databases from scratch.
+  - Implemented Strapi Headless CMS with custom providers.
+  - Maintained GitHub CI/CD pipelines and production deployments.
+
+- **ETL Data Analyst** at Ayvens (External) (Oct 2024 - Nov 2025)
+  - Developed ETL processes for fleet, contract, and billing data integration.
+  - Ensured structured data interoperability across MS SQL Server and DB2.
+  - Automated file handling and FTP transfers via Batch scripts.
+
+- **Audit Assistant** at CON&SEL 15 (Jun 2025 - Jul 2025)
+  - Conducted performance and architecture audits on Qlik environments.
+
+## Education
+- **Higher VET in Multiplatform Application Development (DAM)** - CPF. JUAN XXIII (2022 - 2024)
+
+## Contact & Links
+- Website: https://marcos.merinosanchez.com

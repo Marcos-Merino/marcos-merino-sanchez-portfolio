@@ -36,6 +36,10 @@ jobs:
         env:
           VITE_URL_CV: ${{ secrets.VITE_URL_CV }}
           VITE_URL_IMAGE_MMS: ${{ secrets.VITE_URL_IMAGE_MMS }}
+          VITE_EMAIL: ${{ secrets.VITE_EMAIL }}
+          VITE_PHONE: ${{ secrets.VITE_PHONE }}
+          VITE_LINKEDIN_URL: ${{ secrets.VITE_LINKEDIN_URL }}
+          VITE_GITHUB_URL: ${{ secrets.VITE_GITHUB_URL }}
         run: npm run build
 
       - name: Setup Pages

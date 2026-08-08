@@ -1,11 +1,155 @@
 {
   "nav": {
-    "downloadCv": "Download CV"
+    "downloadCv": "DOWNLOAD CV",
+    "contact": "Contact",
+    "skills": "Skills",
+    "timeline": "Timeline",
+    "about-me": "About Me"
   },
   "home": {
     "title": "Home"
   },
-  "hero-section": {
-    "description": "Hello, I'm Marcos Merino Sánchez, a technology and innovation enthusiast."
+  "about-me-section": {
+    "title": "About Me",
+    "description": "Software Developer focused on Back-End and data management.\n\nI am passionate about understanding how data flows within systems and transforming it into efficient and secure solutions.\n\nExperience in environments with MySQL, Java, C#, Qlik Sense, etc., participating in data migration, integration, and analysis processes.\n\nI stand out for my fast learning ability and for keeping calm in demanding environments. I am looking to keep growing in projects where data and the backend are the core of innovation."
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "name": "Vue.js",
+            "description": "Vue 3 with multiple libraries such as Vuetify, Pinia, Vue Router, etc. For building web applications with reusable components, high performance, and scalability."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Core programming language for modern interactive web development."
+          },
+          {
+            "name": "HTML / CSS",
+            "description": "Web standards for semantic structure and responsive visual design."
+          },
+          {
+            "name": "SEO",
+            "description": "Search engine optimization to improve website visibility and ranking in search engines."
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "name": "Java",
+            "description": "Versions 8 and 12, MVC, used for creating desktop applications using Hibernate for database connectivity."
+          },
+          {
+            "name": "C#",
+            "description": "Version 8, using MVC, MVVM, WinForms, and WPF."
+          },
+          {
+            "name": "Node.js",
+            "description": "Versions 20 and 22, creation of REST APIs with MySQL connectivity."
+          }
+        ]
+      },
+      {
+        "title": "Data",
+        "items": [
+          {
+            "name": "MongoDB",
+            "description": "Document-based NoSQL database for flexible and scalable storage."
+          },
+          {
+            "name": "MySQL",
+            "description": "Relational SQL database management system."
+          },
+          {
+            "name": "ETL",
+            "description": "Data extraction, transformation, and loading processes for analytics and migrations."
+          },
+          {
+            "name": "Qlik Sense",
+            "description": "Interactive business analytics and data visualization tool."
+          },
+          {
+            "name": "Power BI",
+            "description": "Business Intelligence platform for creating dashboards and reports."
+          },
+          {
+            "name": "Tableau",
+            "description": "Business intelligence platform for advanced visual data analytics."
+          }
+        ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & Education",
+    "subtitle": "Interactive timeline of work experience and academic education",
+    "filterAll": "All",
+    "filterExp": "Experience",
+    "filterEdu": "Education",
+    "present": "Present",
+    "clickToExpand": "Click to view more details",
+    "noDescription": "No additional details",
+    "close": "Close",
+    "items": [
+      {
+        "id": "edu-1",
+        "tipo": "formacion",
+        "titulo": "Higher VET in Multiplatform Application Development (DAM)",
+        "lugar": "CPF. JUAN XXIII",
+        "mesInicio": 9,
+        "anioInicio": 2022,
+        "mesFin": 6,
+        "anioFin": 2024,
+        "color": "#10B981"
+      },
+      {
+        "id": "exp-1",
+        "tipo": "experiencia",
+        "titulo": "Full-Stack Developer",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 4,
+        "anioInicio": 2024,
+        "mesFin": null,
+        "anioFin": null,
+        "color": "#8B5CF6",
+        "descripcion": "**Product Development (Web & Mobile):**\n- Participated in the development of a web application for the HR department focused on resume management and processing.\n- Mobile application and corporate website development using **Vue.js 3** as main technology.\n\n**Backend Architecture & Database:**\n- Designed and managed **MySQL** databases from scratch.\n- Implemented **Strapi** as Headless CMS, including custom provider development.\n\n**DevOps & Deployments (CI/CD):**\n- Managed application lifecycles maintaining **GitHub** pipelines, orchestrating production releases and infrastructure deployments."
+      },
+      {
+        "id": "exp-2",
+        "tipo": "experiencia",
+        "titulo": "ETL DATA ANALYST",
+        "lugar": "Ayvens (External)",
+        "mesInicio": 10,
+        "anioInicio": 2024,
+        "mesFin": 11,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "**ETL Design & Implementation**:\n - Developed complex extraction, transformation, and loading (ETL) processes to consolidate and integrate critical fleet, contract, customer, and billing databases.\n **Multiplatform Data Environment Management**:\n - Ensured interoperability and migration of structured data operating with Microsoft SQL Server and DB2 engines.\n **Process Automation**: \n- Designed and implemented process automation using Batch scripts, optimizing workflow by managing secure file movement, compression, and transfer via FTP."
+      },
+      {
+        "id": "exp-3",
+        "tipo": "experiencia",
+        "titulo": "Audit Assistant",
+        "lugar": "CON&SEL 15",
+        "mesInicio": 6,
+        "anioInicio": 2025,
+        "mesFin": 7,
+        "anioFin": 2025,
+        "color": "#8B5CF6",
+        "descripcion": "Performed an audit on service performance and system architecture for the client on Qlik. Researched client architecture and service performance, server verification, process flows, conflicts, improvements, etc."
+      }
+    ]
   }
 }
